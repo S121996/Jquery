@@ -1,0 +1,39 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "name": "Amit",
+      "age": 20,
+      "city": "noida",
+      "email": "amit@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "sumit",
+      "age": 23,
+      "city": "agra",
+      "email": "sumit@gmail.com"
+    },
+    {
+      "name": "harimohan",
+      "age": "32",
+      "city": "mathura4",
+      "email": "harimohan@gmail.com",
+      "id": "a90b"
+    },
+    {
+      "name": "rahul",
+      "age": "20",
+      "city": "delhi",
+      "email": "rahul@gmail.com",
+      "id": "5da1"
+    },
+    {
+      "id": "8b51",
+      "name": "rahul",
+      "age": "27",
+      "city": "agra",
+      "email": "rahul@gmail.com"
+    }
+  ]
+}

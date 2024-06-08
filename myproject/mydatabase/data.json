@@ -1,0 +1,25 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "name": "Amit",
+      "age": "20",
+      "city": "noida",
+      "email": "amit@1234gmail.com"
+    },
+    {
+      "id": "11",
+      "name": "Sumit",
+      "age": "23",
+      "city": "noida",
+      "email": "amit@1234gmail.com"
+    },
+    {
+      "id": "52db",
+      "name": "anish kumar ",
+      "age": "23",
+      "city": "Ghaziabad",
+      "email": "anish@google.com"
+    }
+  ]
+}

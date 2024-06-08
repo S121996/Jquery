@@ -1,0 +1,19 @@
+*{
+    margin :0px;
+    padding:0px;
+}
+
+.nav{
+    display: flex;
+    
+}
+
+.nav a{
+    margin-top: 9px;
+    margin-left: 90px;
+    text-decoration: none;
+}
+.login{
+    position: absolute;
+    right:100px;
+}
